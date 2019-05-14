@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jimmy's Learning Journal
 
 You can use the [editor on GitHub](https://github.com/Jamesrbucy/Jamesrbucy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
