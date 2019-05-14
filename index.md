@@ -1,11 +1,11 @@
 # Jimmy's Learning Journal
-## DAY 1: Growth Learning
-__Different Types of Learning__
+## DAY 1: Code 102 Intro
 
-1.  *Path Learning*
-    1.  learning through more direct instruction
-    1.  Creates predictable results but dependancy upon teacher
-1.  *Sandbox Learning*
-    1.  Learning through challenges and exploration
-    1.  Less predictable outcome but more self dependance gained
-    1.  Helps provide confidence and experience gained during the learning expierence
+_**Growth Mindset**_
+Having a growth mindset is all about not being your own worst enemy. Every coder comes across points in their career which causes them to question themselves and if you cant keep a growth mindset, you may burn out. Here are some examples to stay in that posotive state of mind.
+
+1. Dont say to yourself I cant do this, say I cant do this _yet!_
+1. Dont be concerned that someone knows more than you, realize that everyone went through what you are.
+        1. And every coder still has more to learn!
+1. Dont be afraid of a challenge!
+        1. like coding, every challenge will have many ways to solve them, but not trying will never fix anything.
