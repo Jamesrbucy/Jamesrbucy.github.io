@@ -6,6 +6,6 @@ Having a growth mindset is all about not being your own worst enemy. Every coder
 
 1. Dont say to yourself I cant do this, say I cant do this _yet!_
 1. Dont be concerned that someone knows more than you, realize that everyone went through what you are.
-        1. And every coder still has more to learn!
+    1. And every coder still has more to learn!
 1. Dont be afraid of a challenge!
-        1. like coding, every challenge will have many ways to solve them, but not trying will never fix anything.
+    1. like coding, every challenge will have many ways to solve them, but not trying will never fix anything.
