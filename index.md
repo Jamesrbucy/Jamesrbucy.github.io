@@ -2,7 +2,7 @@
 ## DAY 1: Code 102 Intro
 
 _**Growth Mindset**_
-Having a growth mindset is all about not being your own worst enemy. Every coder comes across points in their career which causes them to question themselves and if you cant keep a growth mindset, you may burn out. Here are some examples to stay in that posotive state of mind.
+Having a growth mindset is all about not being your own worst enemy. Every coder comes across points in their career which causes them to question themselves and if you cant keep a growth mindset, you may burn out. Here are some examples to stay in that positive state of mind.
 
 1. Dont say to yourself I cant do this, say I cant do this _yet!_
 1. Dont be concerned that someone knows more than you, realize that everyone went through what you are.
