@@ -1,4 +1,6 @@
-# Jimmy's Learning Journal ![Jimmy's Journal](https://4.bp.blogspot.com/-Jdmgx-37bHk/UlF-agsVnqI/AAAAAAAABGY/MSAk71Ifp_c/s1600/open+journals.jpg)
+# Jimmy's Learning Journal 
+
+![Jimmy's Journal](https://4.bp.blogspot.com/-Jdmgx-37bHk/UlF-agsVnqI/AAAAAAAABGY/MSAk71Ifp_c/s1600/open+journals.jpg)
 
 ## DAY 1: Code 102 Intro
 
