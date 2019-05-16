@@ -26,6 +26,7 @@ _**The Command Line**_
 
 _The command line_, or the terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text. These commands include, finding, opening, and changing files on your computer, and much more. Their are so many different commands available to perform on the command line that knowing shortcuts can make manuevering this system much simpler. Here is a chart of few shortcuts to help when first getting accustomed to the command line.
 
+
 | Shortcut Commands | Command Definition                  |
 |-------------------|-------------------------------------|
 | pwd               | Displays Current Directory          |
@@ -36,5 +37,6 @@ _The command line_, or the terminal, is a text based interface to the system. Yo
 | . (dot)           | reference to your current directory |
 | .. (dotdot)       | reference to the parent directory   |
 | /                 | Specifies an absolute path       *  |
+
 
 * *An Absolute path specifies a location in relation to the root directory*
