@@ -1,4 +1,4 @@
-# Jimmy's Learning Journal
+# Jimmy's Learning Journal 
 ## DAY 1: Code 102 Intro
 
 _**Growth Mindset**_
@@ -9,3 +9,14 @@ Having a growth mindset is all about not being your own worst enemy. Every coder
     1. And every coder still has more to learn!
 1. Dont be afraid of a challenge!
     1. like coding, every challenge will have many ways to solve them, but not trying will never fix anything.
+
+## DAY 2: Text editors, Terminals, Shortcuts
+
+_**Text Editors**_
+Text editors are the programs which you write your code in a language that computers can understand. Many different developers use different text editors to code, and people often wonder which program is considered "best". While some may seem better than others, many are very similar  to one another. Some of the more important features to look for in a 
+
+1. Code Completion
+2. syntax highlighting
+3. Choice of themes
+4. Availabilty of extensions for the program
+
