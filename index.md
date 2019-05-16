@@ -35,3 +35,6 @@ _The command line_, or the terminal, is a text based interface to the system. Yo
 | ~ (tilde)         | Shortcut for home directory         |
 | . (dot)           | reference to your current directory |
 | .. (dotdot)       | reference to the parent directory   |
+| /                 | Specifies an absolute path       *  |
+
+* *An Absolute paths specify a location in relation to the root directory*
