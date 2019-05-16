@@ -28,5 +28,5 @@ _The command line_, or the terminal, is a text based interface to the system. Yo
 
 |: Shortcut Commands :|: Command definition:|
 
-|: ----------------- :|: ----------------- :|
+| --- |:-----------------:|
 
