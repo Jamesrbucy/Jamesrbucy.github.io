@@ -1,5 +1,4 @@
-# Jimmy's Learning Journal 
-![Jimmy's Journal](https://4.bp.blogspot.com/-Jdmgx-37bHk/UlF-agsVnqI/AAAAAAAABGY/MSAk71Ifp_c/s1600/open+journals.jpg)
+# Jimmy's Learning Journal ![Jimmy's Journal](https://4.bp.blogspot.com/-Jdmgx-37bHk/UlF-agsVnqI/AAAAAAAABGY/MSAk71Ifp_c/s1600/open+journals.jpg)
 
 ## DAY 1: Code 102 Intro
 
@@ -42,5 +41,3 @@ _The command line_, or the terminal, is a text based interface to the system. Yo
 
 
 * *An Absolute path specifies a location in relation to the root directory*
-
-![Jimmy's Journal](https://4.bp.blogspot.com/-Jdmgx-37bHk/UlF-agsVnqI/AAAAAAAABGY/MSAk71Ifp_c/s1600/open+journals.jpg)
