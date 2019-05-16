@@ -37,4 +37,4 @@ _The command line_, or the terminal, is a text based interface to the system. Yo
 | .. (dotdot)       | reference to the parent directory   |
 | /                 | Specifies an absolute path       *  |
 
-* *An Absolute paths specify a location in relation to the root directory*
+* *An Absolute path specifies a location in relation to the root directory*
