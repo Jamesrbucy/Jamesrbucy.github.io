@@ -22,3 +22,10 @@ Text editors are the programs which you write your code in a language that compu
 3. Choice of themes
 4. Availabilty of extensions for the program
 
+_**The Command Line**_
+
+_The command line_, or the terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text. These commands include, finding, opening, and changing files on your computer, and much more. Their are so many different commands available to perform on the command line that knowing shortcuts can make manuevering this system much simpler. Here is a chart of few shortcuts to help when first getting accustomed to the command line.
+
+| Shortcut Commands | Command definition|
+| ----------------- | ----------------- |
+
