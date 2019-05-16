@@ -40,3 +40,5 @@ _The command line_, or the terminal, is a text based interface to the system. Yo
 
 
 * *An Absolute path specifies a location in relation to the root directory*
+
+![Jimmy's Journal](/desktop/journal.jpg)
