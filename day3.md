@@ -1,4 +1,4 @@
-#DAY 3: GIT
+# DAY 3: GIT
 
 ## Table of Contents
 
