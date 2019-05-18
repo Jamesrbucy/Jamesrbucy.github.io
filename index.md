@@ -1,8 +1,8 @@
 # Jimmy's Learning Journal 
 
-##Table of Contents##
+##Table of Contents
+
 | [*DAY 1*](index.md) | [*DAY 2*](day2.md) | [*DAY 3*](day3.md) |
-| ------------------- | ------------------ | ------------------ |
 
 ![Jimmy's Journal](https://4.bp.blogspot.com/-Jdmgx-37bHk/UlF-agsVnqI/AAAAAAAABGY/MSAk71Ifp_c/s1600/open+journals.jpg)
 
