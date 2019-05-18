@@ -1,6 +1,6 @@
 # Jimmy's Learning Journal 
 
-##Table of Contents
+## Table of Contents
 
 | [*DAY 1*](index.md) | [*DAY 2*](day2.md) | [*DAY 3*](day3.md) |
 
