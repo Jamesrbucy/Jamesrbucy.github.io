@@ -1,5 +1,9 @@
 ## DAY 2: Text editors, Terminals, Shortcuts
 
+## Table of Contents
+
+| [*DAY 1*](index.md) | [*DAY 2*](day2.md) | [*DAY 3*](day3.md) |
+
 _**Text Editors**_
 
 Text editors are the programs which you write your code in a language that computers can understand. Many different developers use different text editors to code, and people often wonder which program is considered "best". While some may seem better than others, many are very similar  to one another. Some of the more important features to look for in a 
