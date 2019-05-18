@@ -11,6 +11,6 @@ Once again, we find that all the applications are connected by a very important 
 There are many different shortcuts and quick keys to accomplishing these tasks, here are a few examples of how to use git commands on the terminal
 
 
-![Example code](Screenshot (3).png)
+![Example code](Screenshot (7).png)
 
 *Do not forget to ask your terminal for help! type --help while using git in the terminal and it will give you practical commands, explanations, and examples of how to use them.
