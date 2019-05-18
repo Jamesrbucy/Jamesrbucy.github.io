@@ -13,4 +13,4 @@ There are many different shortcuts and quick keys to accomplishing these tasks, 
 
 ![Example code](C:\Users\jimmy\OneDrive\Desktop\Screenshot (7).png)
 
-*Dont not forget to ask your terminal for help! type --help while using git in the terminal and it will give you practical commands, explanations, and examples of how to use them.
+*Do not forget to ask your terminal for help! type --help while using git in the terminal and it will give you practical commands, explanations, and examples of how to use them.
